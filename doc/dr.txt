@@ -1,0 +1,15 @@
+ex08
+
+16/20
+
+(-4) 8.5
+
+I don't understand what changes I should do concerning your code[1].
+
+dr: adapter le code; 
+lorsque vous êtes en mesure de modifier le code, vous montrez que vous comprenez
+
+Furthermore "an efficient method for solving sliding-block puzzles would yield 
+the most important result in computer science of all time"[2].
+
+dr: You may use a brute force algorithm (no intelligence) with an upper exchange limit of 10000
